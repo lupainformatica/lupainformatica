@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lupainformatica
 - 👀 I’m interested in technology and web development
-- 🌱 I’m currently learning php, CakePHP
+- 🌱 I’m currently learning php, Laravel, CakePHP, JS, CSS, SASS, SCSS, Web
 - 💞️ I’m looking to collaborate on web projects and APIs
 - 📫 How to reach me desenvolvimento@lupainformatica.com.br
 
